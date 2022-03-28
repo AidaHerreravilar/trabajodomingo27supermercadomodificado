@@ -1,0 +1,37 @@
+.h1 {
+  color: blue;
+  font-size: 25px;
+  text-align: center;
+}
+p {
+  color: blue;
+  font-size: 25px;
+}
+h2 {
+  color: yellow;
+  font-size: yellowgreen;
+}
+
+h6 {
+  color: blue;
+  font-size: red;
+}
+
+color: rojo {
+  color: red;
+}
+
+.cursiva-negrita {
+  font-weight: bold;
+  font-style: italic;
+}
+div {
+  background-color: turquoise;
+  border: 1px solid blue;
+}
+.div-especial {
+  background-color: blue;
+  border: 5px solid yellowgreen;
+  padding: 50%;
+  margin: 10px;
+}
